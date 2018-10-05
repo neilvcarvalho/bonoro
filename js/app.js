@@ -20,6 +20,7 @@ var dados = {
     "Bovo",
     "Bilo",
     "Bugo",
+    "Biro",
   ],
   "sufixos": [
     "naro",
@@ -39,6 +40,7 @@ var dados = {
     "vazo",
     "noro",
     "tosco",
+    "liro",
   ]
 }
 var prefixos = dados["prefixos"];

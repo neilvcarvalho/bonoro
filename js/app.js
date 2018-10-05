@@ -17,6 +17,9 @@ var dados = {
     "Buce",
     "Bucen",
     "Bosni",
+    "Bovo",
+    "Bilo",
+    "Bugo",
   ],
   "sufixos": [
     "naro",
@@ -33,6 +36,9 @@ var dados = {
     "vo",
     "tauro",
     "nazo",
+    "vazo",
+    "noro",
+    "tosco",
   ]
 }
 var prefixos = dados["prefixos"];

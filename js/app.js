@@ -27,6 +27,7 @@ var prefixos = [
   "Boso",
   "Boto",
   "Bovo",
+  "Boxo",
   "Bozo",
   "Buce",
   "Buco",
@@ -65,6 +66,7 @@ var sufixos = [
   "varo",
   "vazo",
   "vo",
+  "xaro",
   "zaro",
   "çaro",
 ];

@@ -50,6 +50,7 @@ var sufixos = [
   "liro",
   "mario",
   "maro",
+  "maro",
   "mauro",
   "naro",
   "nauro",
